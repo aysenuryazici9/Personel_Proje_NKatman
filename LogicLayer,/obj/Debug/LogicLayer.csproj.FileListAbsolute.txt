@@ -1,0 +1,22 @@
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\LogicLayer,.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\LogicLayer,.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\DataAccessLayer.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\EntityLayer.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\DataAccessLayer.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\EntityLayer.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer,.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer,.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\LogicLayer,.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\LogicLayer,.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\DataAccessLayer.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\EntityLayer.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\DataAccessLayer.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\bin\Debug\EntityLayer.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer,.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\LogicLayer,\obj\Debug\LogicLayer,.pdb

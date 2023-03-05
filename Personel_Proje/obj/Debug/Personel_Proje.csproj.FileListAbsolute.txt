@@ -1,0 +1,35 @@
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.Form1.resources
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.Properties.Resources.resources
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\Personel_Proje.exe.config
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\Personel_Proje.exe
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\Personel_Proje.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\DataAccessLayer.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\EntityLayer.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\LogicLayer,.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\DataAccessLayer.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\EntityLayer.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\LogicLayer,.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.csproj.CopyComplete
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.exe
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\Personel_Proje.exe.config
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\Personel_Proje.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\Personel_Proje.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\DataAccessLayer.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\EntityLayer.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\LogicLayer,.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\DataAccessLayer.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\EntityLayer.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\bin\Debug\LogicLayer,.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.Form1.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.Properties.Resources.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.csproj.CopyComplete
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\Personel_Proje\obj\Debug\Personel_Proje.pdb

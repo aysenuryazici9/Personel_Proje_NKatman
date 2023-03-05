@@ -1,0 +1,18 @@
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\90536\Desktop\A-Z'yeC#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\ProjeNKatmanUdemyC#\Personel_Proje\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
